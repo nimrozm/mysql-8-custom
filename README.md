@@ -1,2 +1,2 @@
 # mysql-8-custom
-Enabling mysql_native_password &amp; local_infile over MySql 8.0.17 docker image
+Enabling mysql_native_password &amp; local_infile over MySql 8.0.28 docker image
